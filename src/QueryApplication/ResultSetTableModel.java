@@ -7,7 +7,7 @@ import javax.swing.event.TableModelListener;
 import javax.swing.table.TableModel;
 
 /**
- * @author Jon Janet 6701505 IT315 6/18/2012
+ * @author Jon Janet 
  * Class ResultSetTableModel implements the TableModel interface so the JTable  
  * can display the ResultSet. The results are set to not be editable.
  */
