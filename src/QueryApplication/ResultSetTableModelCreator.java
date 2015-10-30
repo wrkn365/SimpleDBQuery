@@ -4,7 +4,7 @@ import java.sql.*;
 
 /**
  * 
- * @author Jon Janet 6701505 IT315 6/18/2012
+ * @author Jon Janet 
  * Class ResultSetTableModelCreator makes a database connection then takes the 
  * SQL query and returns a ResultSetTableModel object that can be displayed in the JTable
  */
