@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import javax.swing.*;
 
 /**
- * @author Jon Janet 6701505 IT315 6/18/2012
+ * @author Jon Janet 
  * Class QueryApplication creates a GUI that allows the user to enter an SQL query. It
  * then obtains a ResultSetTableModel for the query and uses it to display the
  * results of the query in a JTable.
