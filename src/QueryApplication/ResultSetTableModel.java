@@ -110,7 +110,7 @@ public class ResultSetTableModel implements TableModel
     /**
      * The following methods are used to edit the table.  
      * None of the following methods will be implemented
-     * because the table is set to not be editable.
+     * because the table is currently set to not be editable.
      */
     @Override
     public boolean isCellEditable(int row, int column)
